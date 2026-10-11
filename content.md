@@ -414,13 +414,10 @@ edit:
     - 大津通沿線
     - 逛累了回飯店休息泡湯
 - **晚上**　
-
-選擇一：**🍽️ 名古屋味噌豬排 黑豚屋 らむちぃ**　[地圖](https://maps.app.goo.gl/7HUtLihHDv5RpQGN7)
-    - 僅收現金！⚠️
-
-選擇二：**🍽️ Arancia**　[地圖](https://maps.app.goo.gl/zvQvC34HwWVoEP2ZA)
-    - 小雞一家人咖哩蛋包飯
-
+  選擇一：**🍽️ 名古屋味噌豬排 黑豚屋 らむちぃ**　[地圖](https://maps.app.goo.gl/7HUtLihHDv5RpQGN7)
+      - 僅收現金！⚠️
+  選擇二：**🍽️ Arancia**　[地圖](https://maps.app.goo.gl/zvQvC34HwWVoEP2ZA)
+      - 小雞一家人咖哩蛋包飯
 - **回程**　**🏪 買隔天早餐**
 
 :::spoiler ☕ 名古屋早餐 3選1（10/19 週一有開的店）
